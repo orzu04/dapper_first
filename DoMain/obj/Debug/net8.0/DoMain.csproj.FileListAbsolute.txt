@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\SQL\DoMain\bin\Debug\net8.0\DoMain.deps.json
+C:\Users\Administrator\Desktop\SQL\DoMain\bin\Debug\net8.0\DoMain.dll
+C:\Users\Administrator\Desktop\SQL\DoMain\bin\Debug\net8.0\DoMain.pdb
+C:\Users\Administrator\Desktop\SQL\DoMain\obj\Debug\net8.0\DoMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\SQL\DoMain\obj\Debug\net8.0\DoMain.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\SQL\DoMain\obj\Debug\net8.0\DoMain.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\SQL\DoMain\obj\Debug\net8.0\DoMain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SQL\DoMain\obj\Debug\net8.0\DoMain.dll
+C:\Users\Administrator\Desktop\SQL\DoMain\obj\Debug\net8.0\refint\DoMain.dll
+C:\Users\Administrator\Desktop\SQL\DoMain\obj\Debug\net8.0\DoMain.pdb
+C:\Users\Administrator\Desktop\SQL\DoMain\obj\Debug\net8.0\ref\DoMain.dll
